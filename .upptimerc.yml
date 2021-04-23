@@ -5,6 +5,3 @@ sites: # List of endpoints to track
     url: https://codingabs.com
 assignees: # Users to assign downtime issues (optional)
   - codescientist703
-status-website: # Status website (optional)
-  cname: codingabs.com # Custom domain CNAME
-  name: Coding abs # Status website title
