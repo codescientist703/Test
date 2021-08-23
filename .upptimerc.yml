@@ -7,4 +7,4 @@ assignees: # Users to assign downtime issues (optional)
   - codescientist703
 status-website:
   baseUrl: /Test # where "repo" is your repository name
-  name: Coding Abs Status
+  name: Coding Abs status
