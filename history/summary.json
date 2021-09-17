@@ -4,7 +4,7 @@
     "url": "https://codingabs.com",
     "icon": "https://favicons.githubusercontent.com/codingabs.com",
     "slug": "coding-abs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 125,
     "timeYear": 323,
     "dailyMinutesDown": {
+      "2021-09-17": 0,
       "2021-07-13": 24,
       "2021-06-08": 56
     }
